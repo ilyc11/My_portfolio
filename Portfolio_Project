@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Ily</h1>
+        <nav>
+            <ul>
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="hero">
+        <h2>Welcome to My Portfolio</h2>
+        <p>Welcome! I'm excited to share my work and journey in data science with you.</p>
+    </section>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi, I'm Ily, a passionate data scientist with a love for uncovering insights from data. I enjoy working on projects that make a difference.</p>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>R</li>
+            <li>SQL</li>
+            <li>Machine Learning</li>
+            <li>Data Visualization</li>
+            <li>Statistical Analysis</li>
+            <li>Big Data Tools (Hadoop, Spark)</li>
+        </ul>
+    </section>
+</body>
+</html>
